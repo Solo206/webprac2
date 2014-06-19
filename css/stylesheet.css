@@ -3,11 +3,15 @@ html{
 }
 header{
 	position:fixed;
-	height:100%;
+	height:50%;
 	background:url("http://solo206.github.io/webprac2/img/dog.png") no-repeat center center fixed;
 	background-size,-moz-background-size,-webkit-background-size:cover;
 	
 	color:white;
+}
+main{
+	clear:both;
+}
 }
 a{
 	color:white;
