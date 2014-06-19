@@ -4,6 +4,7 @@ html{
 header{
 	text-align:center;
 	background:url("http://solo206.github.io/webprac2/img/dog.png") no-repeat;
+	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	color:white;
