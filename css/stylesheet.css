@@ -2,6 +2,7 @@ html{
 	height:100%;
 }
 header{
+	height:25%;
 	background:url("http://solo206.github.io/webprac2/img/dog.png") no-repeat;
 	background-size,-moz-background-size,background-size:cover;
 	
