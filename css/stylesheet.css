@@ -7,7 +7,7 @@ header{
 	width:100%;
 	background:url("http://solo206.github.io/webprac2/img/dog.png") no-repeat center center fixed;
 	background-size,-moz-background-size,-webkit-background-size:cover;
-	
+	overflow:hidden;
 	color:white;
 }
 .clearfix:after{
