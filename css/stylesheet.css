@@ -4,6 +4,7 @@ header{
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	color:white;
+	min-height:100%;
 }
 a{
 	color:white;
