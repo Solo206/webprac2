@@ -4,9 +4,7 @@ html{
 header{
 	text-align:center;
 	background:url("http://solo206.github.io/webprac2/img/dog.png") no-repeat;
-	background-size:cover;
-	-moz-background-size:cover;
-	-webkit-background-size:cover;
+	background-size:cover, -moz-background-size:cover, -webkit-background-size:cover;
 	
 	color:white;
 }
@@ -20,6 +18,7 @@ img{
 	margin:40px 0 0 0;
 	border:7px solid white;
 	border-radius:20px;
+	float:left;
 }
 ul{
 	padding:10px;
